@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Akhmadeev
+    given-names: Timur
+title: "bio-lif-core: LIF neuron with exact integrator"
+version: 0.1.0
+date-released: 2026-10-08
+license: MIT
+repository-code: "https://github.com/timur-akhmadeev/bio-lif-core"
+abstract: >
+  A Leaky Integrate-and-Fire (LIF) neuron with physical units (mV, nA, MΩ, ms),
+  exact analytical integrator, strong validation, and 98 unit tests. Core of
+  the BioMorph research project on biomorphic systems based on the Drosophila
+  melanogaster connectome.
+keywords:
+  - spiking neural networks
+  - LIF neuron
+  - neuromorphic computing
+  - connectome
+  - Drosophila melanogaster
