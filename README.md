@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Tests](https://img.shields.io/badge/tests-98%20passed-brightgreen)
+![Tests](https://github.com/timur-akhmadeev/bio-lif-core/actions/workflows/tests.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-v0.1.0-orange)
 
 # bio-lif-core
